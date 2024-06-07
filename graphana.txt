@@ -1,1 +1,1 @@
-graphana
+graphana for monitoring
